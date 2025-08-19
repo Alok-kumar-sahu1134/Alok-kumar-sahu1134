@@ -92,8 +92,8 @@
 ## 🤙 Connect With Me
 
 * 🔗 **Portfolio:** *add link here*
-* 💼 **LinkedIn:** *add link here*
-* 📧 **Email:** *add your email here*
+* 💼 **LinkedIn:** *https://www.linkedin.com/in/alokkumar-sahu-827298334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*
+* 📧 **Email:** *alokkumarsahu1134@gmail.com*
 
 ---
 
