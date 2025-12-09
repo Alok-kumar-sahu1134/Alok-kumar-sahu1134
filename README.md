@@ -1,4 +1,4 @@
-# Hi there, I'm **Alok Kumar Sahu** 👋
+# Hi there, I'm **AlokKumar** 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+Coder+%7C+Lifelong+Learner;I+love+building+clean%2C+modern+UIs;Open+source+%26+learning+in+public" alt="Typing SVG" />
